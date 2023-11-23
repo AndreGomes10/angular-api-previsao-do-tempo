@@ -1,0 +1,5 @@
+npm install @fortawesome/fontawesome-svg-core
+npm install @fortawesome/free-solid-svg-icons
+npm install @fortawesome/angular-fontawesome@0.14.x
+
+https://www.npmjs.com/package/@fortawesome/angular-fontawesome
